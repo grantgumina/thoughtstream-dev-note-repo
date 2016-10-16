@@ -1,6 +1,6 @@
 {
     'title': 'JBP - MM1',
-    'body': 'Hello world!',
+    'body': 'Changed some stuff',
     'type': 'note',
     'tags': [
         { 'id': 'rexxxkd0', 'name': 'culture' },
